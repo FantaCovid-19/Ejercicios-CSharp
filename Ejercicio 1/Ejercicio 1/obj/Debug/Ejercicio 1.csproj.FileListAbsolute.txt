@@ -1,0 +1,11 @@
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\hugoa\source\repos\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
