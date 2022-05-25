@@ -23,4 +23,4 @@ Calculadora de impuestos + calculadora de cuotas en 2 formularios con Validacion
 Ejercicio de Login + MenuStrip y ItemStrip en 2 formularios
 
 ### Ejercicio 8
-Evaluacion de Base de Datos
+Evaluacion de Base de Datos SQL Server
