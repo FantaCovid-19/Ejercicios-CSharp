@@ -27,12 +27,12 @@ Evaluacion de Base de Datos SQL Server
 
 Requiere Tabla con los siguientes datos:
 
-- id: PrimaryKey, Int
-- run: Varchar(20)
-- name: Varchar(200)
-- last_name: Varchar(200)
+- id: PrimaryKey, int
+- run: varchar(20)
+- name: varchar(200)
+- last_name: varchar(200)
 - hours: float
 - status: int
 
 ### Ejercicio 9
-Proximamente
+Proximamente ...
