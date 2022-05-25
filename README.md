@@ -1,6 +1,9 @@
 # Ejercicios-CSharp
 Ejercicios C# Clases Programacion Avanzadas de Aplicaciones Analista Programador Inacap-2022
 
+Descarga todos los ejercicios en el release:
+https://github.com/FantaCovid-19/Ejercicios-CSharp/releases
+
 ### Ejercicio 1
 Ejercicio Calculadora con Validacion
 
