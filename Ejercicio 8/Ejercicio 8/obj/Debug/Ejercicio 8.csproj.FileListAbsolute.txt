@@ -1,0 +1,22 @@
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.csprojAssemblyReference.cache
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio_8.Form1.resources
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio_8.Properties.Resources.resources
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.GenerateResource.cache
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.pdb
+D:\Nueva carpeta (2)\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio_8.CRUD.Form2.resources
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.csprojAssemblyReference.cache
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio_8.Form2.resources
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio_8.Form1.resources
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio_8.Properties.Resources.resources
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.GenerateResource.cache
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CoreCompileInputs.cache
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+D:\jdffjñfg\Ejercicio 9\Ejercicio 8\obj\Debug\Ejercicio 8.pdb
