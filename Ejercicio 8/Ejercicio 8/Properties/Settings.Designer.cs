@@ -26,8 +26,6 @@ namespace Ejercicio_8.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=195.62.47.122;Initial Catalog=Ejercicios;User ID=SA;Password=FantaCov" +
-            "id-19")]
         public string EjerciciosConnectionString {
             get {
                 return ((string)(this["EjerciciosConnectionString"]));
