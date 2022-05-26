@@ -21,7 +21,6 @@ namespace Ejercicio_8
         {
             try
             {
-                // Data Source=195.62.47.122;Initial Catalog=Ejercicios;User ID=SA;Password=FantaCovid-19
                 _conn = new SqlConnection(@"Data Source = " + host + "; Initial Catalog = " + database + "; Integrated Security = True");
                 _conn.Open();
             }
