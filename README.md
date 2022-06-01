@@ -38,4 +38,9 @@ Requiere Tabla con los siguientes datos:
 - status: int
 
 ### Ejercicio 9
-Proximamente ...
+Ejercicio se realizo los siguiente:
+
+- Añadio una nuevo View
+- Añadio Bootstrap 5
+- Modificacion del Controller
+- Se creo una clase html Card con Bootstrap 5 
