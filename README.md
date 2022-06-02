@@ -4,6 +4,8 @@ Ejercicios C# Clases Programacion Avanzadas de Aplicaciones Analista Programador
 Descarga todos los ejercicios completos en el release:
 https://github.com/FantaCovid-19/Ejercicios-CSharp/releases
 
+Herramienta Utilizada: Visual Studio 2022
+
 ### Ejercicio 1
 Ejercicio Calculadora con Validacion
 
