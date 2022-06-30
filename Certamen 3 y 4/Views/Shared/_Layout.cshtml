@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Cake Love</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/Content/main.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <div class="navbar-brand">
+                <img src="~/Img/Logo.png" alt="Logo Cake Love" width="30" height="24" class="d-inline-block align-text-top" />
+                Cake Love
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        @Html.ActionLink("Inicio", "Index", "Home", null, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Catalogo", "About", "Home", null, new { @class = "nav-link" })
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div class="container-xxl">
+                <div class="row">
+                    <div class="col-4 social">
+                        <a href="https://twitter.com/">
+                            <span id="social-item" style="background-color: #1DA1F2">
+                                <img src="~/Img/twitter.svg" height="20" width="20" />
+                            </span>
+                        </a>
+                    </div>
+                    <div class="col-4 social">
+                        <a href="https://instagram.com/">
+                            <span id="social-item" style="background-color: #E4405F">
+                                <img src="~/Img/instagram.svg" height="20" width="20"/>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="col-4 social">
+                        <a href="https://facebook.com/">
+                            <span id="social-item" style="background-color: #1877F2">
+                                <img src="~/Img/facebook.svg" height="20" width="20" />
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <p style="text-align: center">&copy; @DateTime.Now.Year - Copyright <a href="https://github.com/FantaCovid-19">Hugo Moya</a></p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,237 @@
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.dll.config
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.pdb
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.exe
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.exe.config
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.rsp
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.exe
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.exe.config
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.rsp
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.AppContext.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Console.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.Compression.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Net.Http.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.ValueTuple.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.exe
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.exe.config
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.rsp
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\VBCSCompiler.exe
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Antlr3.Runtime.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Newtonsoft.Json.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Helpers.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Mvc.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Optimization.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Razor.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Razor.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\WebGrease.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Helpers.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Mvc.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Optimization.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Razor.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Razor.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Newtonsoft.Json.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Antlr3.Runtime.pdb
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.AssemblyReference.cache
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.CopyComplete
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.dll
+C:\Users\hugoa\source\repos\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.pdb
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.dll.config
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.pdb
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.exe
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.exe.config
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.rsp
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.exe
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.exe.config
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.rsp
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.AppContext.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Collections.Immutable.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Console.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Globalization.Calendars.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.Compression.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.FileSystem.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Net.Http.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Net.Sockets.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Reflection.Metadata.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.ValueTuple.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XPath.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.exe
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.exe.config
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.rsp
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\VBCSCompiler.exe
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\VBCSCompiler.exe.config
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Antlr3.Runtime.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.Web.Infrastructure.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Newtonsoft.Json.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Helpers.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Mvc.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Optimization.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Razor.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Deployment.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Razor.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\WebGrease.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Helpers.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Mvc.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Optimization.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Razor.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Deployment.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Razor.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Newtonsoft.Json.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Antlr3.Runtime.pdb
+G:\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.AssemblyReference.cache
+G:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.CoreCompileInputs.cache
+G:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.CopyComplete
+G:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.dll
+G:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.pdb
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.dll.config
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Certamen 3 y 4.pdb
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.exe
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.exe.config
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csc.rsp
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.exe
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.exe.config
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\csi.rsp
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.AppContext.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Collections.Immutable.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Console.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Globalization.Calendars.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.Compression.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.FileSystem.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Net.Http.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Net.Sockets.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.ValueTuple.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XPath.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.exe
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.exe.config
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\vbc.rsp
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\VBCSCompiler.exe
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\roslyn\VBCSCompiler.exe.config
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Antlr3.Runtime.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.Web.Infrastructure.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Newtonsoft.Json.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Helpers.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Mvc.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Optimization.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Razor.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Deployment.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Razor.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\WebGrease.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Helpers.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Mvc.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Optimization.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.Razor.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Deployment.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\System.Web.WebPages.Razor.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Newtonsoft.Json.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Antlr3.Runtime.pdb
+D:\Certamen 3 y 4\Certamen 3 y 4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.AssemblyReference.cache
+D:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.CoreCompileInputs.cache
+D:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.csproj.CopyComplete
+D:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.dll
+D:\Certamen 3 y 4\Certamen 3 y 4\obj\Debug\Certamen 3 y 4.pdb
